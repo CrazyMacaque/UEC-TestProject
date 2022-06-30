@@ -1,1 +1,1 @@
-# UEC-TestProject
+# UECTestProject
